@@ -58,7 +58,7 @@ Hardcoded Values: In APP.JS
 
 1)   Queue:  joshi-queue (Hardcoded queue name which include in the Create script also.)
 
-Queue url = https://sqs.us-east-1.amazonaws.com/314979480072/joshi-queue
+Queue url = https://sqs.us-east-1.amazonaws.com/314************0/joshi-queue
 
 2)   Line 35:  It Selects the buckets which starts from "raw" (mine was raw-bucket-joshi)
 
