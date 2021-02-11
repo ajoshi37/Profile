@@ -4,9 +4,6 @@
 <h1>Ashutosh Joshi</h1>
 <img src=https://github.com/ajoshi37/Profile/blob/main/profile.jpg alt="profile picture">
 
-<br>
-<img src=https://github.com/ajoshi37/Profile/blob/main/interest.jpg alt="interests picture">
-
 <hr>
 <h2> where are you from</h2>
 City: Ajmer

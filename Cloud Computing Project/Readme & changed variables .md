@@ -1,3 +1,18 @@
+Create-env.sh (Creates the whole infrastructure)
+Created Lambda function with help of DynamoDB. As it creates lambda it sent SMS to the provided phone number about it's Status, Provided Name and details about the job.
+It includes 4 EC2, 3 auto-scaling groups and required things to launch all computing, such as security groups, target group, listeners etc.
+
+Destroy-env..sh (Destory the whole infrastructure)
+
+App.js
+Take input from user such as name, phone number, email address and image and put the data in the database servers which is dynamodb.
+
+Editor.py
+Includes python code do deploy the backend of the server.
+
+Index.html
+Includes the HTML page desgin. 
+
 Skipped 5 Number.
 Subnet for Ec2 launch. 
 
